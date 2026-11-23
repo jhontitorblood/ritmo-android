@@ -1,0 +1,16 @@
+{
+  "zones": [
+    {
+      "name": "El Garaje",
+      "songs": ["mi_cancion_1", "mi_cancion_2"],
+      "min_stars": 2,
+      "video": "user://videos/zona1.ogv"
+    },
+    {
+      "name": "El Bar",
+      "songs": ["mi_cancion_3"],
+      "min_stars": 3,
+      "video": "user://videos/zona2.ogv"
+    }
+  ]
+}
